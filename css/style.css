@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#head{
+    background-color:#2763c4;
+    height: 60px;
+width: 100%;
+    margin-top: -15px;
+    /*box-shadow:0 4px 10px lightslategray;
+
+     */
+}
+#logo{
+    color:white;
+    padding-top: 10px;
+    margin-top: -46px;
+    margin-left: 35px;
+}
+p{
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+font-size: 20px;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding-top: 18px;
+}
+#add{
+width: 70%;
+    border: 1px solid blue ;
+    border-radius: 7px;
+    min-height: 30px;
+    margin: auto;
+    background-color: #2763c4;
+
+}
+
+#wrapper{
+    width: 70%;
+    border: 1px solid blue;
+    border-radius: 7px;
+    margin: auto;
+    min-height: 250px;
+    position: relative;
+}
+h1 {
+
+    font-weight: lighter;
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+}
+#card1{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+left: 105px;
+    top: 20px;
+    font-family: "Century Gothic";
+}
+#card2{
+font-size: 15px;
+font-weight: bold;
+color: black;
+position: absolute;
+left: 100px;
+top: 55px;
+font-family: "Century Gothic";
+}
+#card3{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    left: 141px;
+    top: 90px;
+    font-family: "Century Gothic";
+}
+#card4{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    left: 104px;
+    top: 125px;
+    font-family: "Century Gothic";
+}
+#card5{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    left: 640px;
+    top: 88px;
+    font-family: "Century Gothic";
+}
+#input1{
+    width: 840px;
+     position: absolute;
+    left: 205px;
+    top: 20px;
+
+ }
+#input2{
+    width: 840px;
+    position: absolute;
+    left: 205px;
+    top: 54px;
+}
+#input3{
+    width: 280px;
+    position: absolute;
+    left: 205px;
+    top: 88px;
+}
+#input4{
+    width: 840px;
+    height: 80px;
+    position: absolute;
+    left: 205px;
+    top: 122px;
+}
+#input5{
+    width: 340px;
+
+    position: absolute;
+left: 705px;
+    top: 88px;
+}
+#start{
+    position: absolute;
+    left: 946px;
+    top: 210px;
+
+}
+.displayon {
+    display: block;
+}
+.displayoff {
+    display: none;
+}
+#cont{
+    width: 60%;
+    margin: auto;
+    position: relative;
+    margin-top: 35px;
+    border-top: 2px solid lightslategray;
+}
+.head2{
+    font-family: "Century Gothic";
+    font-size: 19px;
+    font-weight: bold;
+    color: #2763c4;
+    position:absolute;
+
+}
+.owner{
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: normal;
+    color: black;
+    position: absolute;
+    top:25px;
+}
+.notes{
+    font-family: "Century Gothic";
+    font-size: 13px;
+    font-weight: normal;
+    color: black;
+    position: absolute;
+    top:43px;
+}
+.date {
+    font-family: "Century Gothic",cursive;
+    font-size: 13px;
+    font-weight: normal;
+    color: black;
+    position: absolute;
+    left: 845px;
+    top:10px;
+}
+.time {
+    font-family: "Century Gothic",cursive;
+    font-size: 13px;
+    font-weight: normal;
+    color: black;
+    position: absolute;
+    left: 905px;
+    top:10px;
+}
+ul li {
+    list-style-type: none;
+    position: relative;
+}
+#plus{
+    position: absolute;
+    top:215px;
+    left: 925px;
+}
+#select {
+    padding:10px;
+
+}
+#textsort{
+    font-family: "Century Gothic";
+    font-weight: normal;
+
+    padding: 10px;
+
+}
+#divsort{
+    margin-left: 700px;
+    margin-top: 20px;
+}
